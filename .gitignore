@@ -5,10 +5,8 @@ __pycache__/
 venv/
 
 # Generated experiment outputs and paper figures.
-results/**
-!results/.gitkeep
-paper_v3/figures/**
-!paper_v3/figures/.gitkeep
+results/
+paper_v3/figures/
 
 # Local logs and temporary files.
 logs/
