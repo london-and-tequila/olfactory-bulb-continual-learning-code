@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+venv/
+
+# Generated experiment outputs and paper figures.
+results/**
+!results/.gitkeep
+paper_v3/figures/**
+!paper_v3/figures/.gitkeep
+
+# Local logs and temporary files.
+logs/
+*.log
+*.aux
+*.bbl
+*.blg
+*.out
